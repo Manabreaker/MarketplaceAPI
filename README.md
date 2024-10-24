@@ -21,10 +21,8 @@ MarketplaceAPI/
 ├── Dockerfile                 # Файл для сборки Docker-образа
 ├── docker-compose.yml         # Файл для управления контейнерами с помощью Docker Compose
 ├── main.py                    # Основной файл приложения на FastAPI
-├── models.py                  # Определение моделей данных и ORM (SQLAlchemy)
 ├── requirements.txt           # Файл с зависимостями проекта
-├── README.md                  # Документация по проекту
-└── tests/                     # Папка с тестами
+└── README.md                  # Документация по проекту
 ```
 
 ## Установка и запуск
